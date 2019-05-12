@@ -1,0 +1,14 @@
+[package]
+name = "signal"
+version = "0.1.0"
+authors = ["lexkane"]
+#![feature(proc_macro_hygiene)]
+
+[dependencies]
+slog = "2.4.1"
+sloggers = "0.3.2"
+chan = "0.1.23"
+nix = "0.13.0"
+clap = "2.33.0"
+humantime = "1.2.0"
+reqwest = "0.9.16"
