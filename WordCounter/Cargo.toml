@@ -1,0 +1,9 @@
+[package]
+name = "WordCounter"
+version = "0.1.0"
+authors = ["lexkane <alexkane.vip@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+rayon = "1.0.2"
